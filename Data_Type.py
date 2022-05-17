@@ -1,5 +1,8 @@
 import numpy as np
 
+#TIPOS DE DATOS https://numpy.org/doc/stable/user/basics.types.html
+
+
 list = [0,1,2,3,4,5,6,7,8,9]
 print (list)
 
